@@ -1,0 +1,7 @@
+#Mon Mar 06 19:22:25 PST 2017
+base.0=/Users/aidenfang/android_yf/ListViewTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f2060dfe1bd1975fc48198daac84854f8a2fe4a9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/aidenfang/android_yf/ListViewTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9b8cbe3e76745aefa137573cd503d518d92fc759/classes.dex
+base.1=/Users/aidenfang/android_yf/ListViewTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9b8cbe3e76745aefa137573cd503d518d92fc759
+file.0=/Users/aidenfang/android_yf/ListViewTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f2060dfe1bd1975fc48198daac84854f8a2fe4a9/classes.dex
